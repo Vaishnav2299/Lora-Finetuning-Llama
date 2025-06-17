@@ -11,8 +11,8 @@ This repository explains how to do the following
 
 # The Tools Used:-
 
-1. Unsloth
-  An optimized framework for LLM fine-tuning that offers:
+1. Unsloth -
+  * An optimized framework for LLM fine-tuning that offers:
 
   - Up to 30x faster training speeds and 60% reduced memory usage
   - Support for multiple hardware setups (NVIDIA, AMD, and Intel GPUs)
@@ -21,8 +21,8 @@ This repository explains how to do the following
   - Compatibility with major LLMs (Mistral, Llama, Gemma)
   - Efficient operation on local GPUs and Google Colab Notebooks
 
-2. Weights & Biases
-  An excellant  monitoring platform for tracking training metrics, visualizing performance, and managing experiments through a GUI which gives us intuitive dashboard with plots.
+2. Weights & Biases -
+  * An excellant  monitoring platform for tracking training metrics, visualizing performance, and managing experiments through a GUI which gives us intuitive dashboard with plots.
 
 3. Ollama
  An easy to use Inference tool   
