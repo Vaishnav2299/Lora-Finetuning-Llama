@@ -1,6 +1,6 @@
 # Lora-Finetuning-Llama
 
-The aim is to fine Tune the Lamma 3.1-8B model to perform function calling .
+The aim is to Fine Tune the Llama 3.1-8B model to perform function calling .
 
 This repository explains how to do the following 
 * Low Rank Adaptation Fine Tuning of Llama 3.1
