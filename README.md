@@ -24,5 +24,5 @@ This repository explains how to do the following
 2. Weights & Biases -
   * An excellant  monitoring platform for tracking training metrics, visualizing performance, and managing experiments through a GUI which gives us intuitive dashboard with plots.
 
-3. Ollama
- An easy to use Inference tool   
+3. Ollama -
+ * An easy to use Inference tool   
